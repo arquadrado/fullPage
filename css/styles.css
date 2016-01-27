@@ -1,0 +1,47 @@
+.rect1 {
+	height: 150px;
+	width: 150px;
+	background-color: red;
+	margin: auto;
+}
+
+.rect2 {
+	height: 150px;
+	width: 150px;
+	background-color: yellow;
+	margin: auto;
+}
+
+.rect3 {
+	height: 150px;
+	width: 150px;
+	background-color: green;
+	margin: auto;
+}
+
+
+.slide-container {
+	position: relative;
+	width: 100%;
+	height: 90%;
+}
+
+.slide-btns-container {
+	height: 50px;
+	width: 200px;
+	margin: auto;
+	font-family: 'Century Gothic', sans-serif;
+}
+
+.slide-btn {
+	display: inline-block;
+	text-decoration: none;
+}
+
+.row {
+	margin-bottom: 5px;
+}
+
+.coluna {
+	background-color: red
+}
